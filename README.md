@@ -89,7 +89,7 @@ _ _ _
 |-------|:-------:|-----:|
 |[14]|[VirusTotal Windows 7 executable samples](https://virustotal.com/)|Windows 7 executable samples|
 |[14]|[Softonic](https://en.softonic.com/)|App news and reviews, best software downloads and discovery|
-|[14]|[PortableApps]|Offering free, commonly used Windows applications that have been specially packaged for portability|
+|[14]|[PortableApps](https://portableapps.com/)|Offering free, commonly used Windows applications that have been specially packaged for portability|
 |[14]|[SourceForge](https://sourceforge.net/)|Open Source applications and software directory|
 
 
