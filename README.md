@@ -85,6 +85,13 @@ _ _ _
 |[10]|[Microsoft’s Exploitability Index](https://technet.microsoft.com/en-us/security/cc998259.aspx)|Recording exploitability information|
 _ _ _
 #### Executables
+|Related paper|Dataset|Description|
+|-------|:-------:|-----:|
+|[14]|[VirusTotal Windows 7 executable samples](https://virustotal.com/)|Windows 7 executable samples|
+|[14]|[Softonic](https://en.softonic.com/)|App news and reviews, best software downloads and discovery|
+|[14]|[PortableApps]|Offering free, commonly used Windows applications that have been specially packaged for portability|
+|[14]|[SourceForge](https://sourceforge.net/)|Open Source applications and software directory|
+
 
 _ _ _
 #### Network datasets
