@@ -106,11 +106,16 @@ _ _ _
 |Related paper         | Dataset          | Introduction|
 | -------------------- |:----------------:| --------:|
 |[5]|Synthetic obfuscation C code|5 obfuscating transformations apply to each of 4608 synthetic C programs with security check. Totally, 23,040 synthetic obfuscation C programs are included in this dataset.|
-|[14]|Sythetic network graph|A simple graph represented by four main node patterns: “center of a star”, “edge of a star”, “bridge nodes” (connecting stars/cliques), and “clique nodes”|
+|[14]|Sythetic network graph|A simple graph represented by four main node patterns: “center of a star”, “edge of a star”, “bridge nodes” (connecting stars/cliques), and “clique nodes”.|
 
 
 - - -
 #### Webpage data 
+|Related paper         | Dataset          | Introduction|
+| -------------------- |:----------------:| --------:|
+|[7]|SEO, porn and gambling webpages| Webpages marked as “evil” by [Baidu](http://www.baidu.com/)|
+|[8]| Malicious and benign websites|Malicious websites are collected from [PhishTank blacklists](https://www.phishtank.com) and the “search-redirection attacks” list; benign websites are gathered from [entire.com zone file](entire.com) and validated by multiple reputation blacklists, including [PhishTank blacklists](https://www.phishtank.com), “search-redirection attacks” list, [DNS-BH](http://www.malwaredomains.com), [Google SafeBrowsing](https://code.google.com/apis/s
+afebrowsing/), and [hpHosts blacklists](https://code.google.com/apis/safebrowsing/)|
 
 _ _ _
 #### Social media data
