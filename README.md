@@ -24,7 +24,7 @@ Forecasting Cyber Security Incidents (Usenix, 2015)](https://www.usenix.org/syst
 spending: A quantitative analysis of risk distributions for different
 business profiles (WEIS, 2015)](http://web.eecs.umich.edu/~mingyan/pub/weis15.pdf)
 
-- [3] Discover previous unknown malware: [The dropper effect: Insights into malware distribution with downloader graph analTytics
+- [3] Discover previously unknown malware: [The dropper effect: Insights into malware distribution with downloader graph analTytics
 (ACM SIGSAC, 2015)](https://www.symantec.com/content/dam/symantec/docs/research-papers/dropper-effect-insights-into-malware-distribution-with-downloader-graph-analytics-en.pdf) 
 
 - [4] Predict whether a file is malicious or not based on first 5 seconds execution: [
