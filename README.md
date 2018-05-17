@@ -51,7 +51,7 @@ Analysis of Open-Source Cyber Threat Intelligence (ACM SIGSAC, 2016)](https://ww
 - [12] Discover, identify and encode cyberattack events: [Crowdsourcing cybersecurity: Cyber attack detection using social
 media (ACM CIKM, 2017)](https://dl.acm.org/citation.cfm?id=3132866)
 
-- [13] Predict mobile apps securityrelated behaviors: [AUTOREB: Automatically Understanding the
+- [13] Predict mobile apps security-related behaviors: [AUTOREB: Automatically Understanding the
 Review-to-Behavior Fidelity in Android Applications (ACM SIGSAC, 2015)](http://delivery.acm.org/10.1145/2820000/2813689/p530-kong.pdf?ip=128.184.189.40&id=2813689&acc=ACTIVE%20SERVICE&key=65D80644F295BC0D%2EB242904781996EBA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1526004152_50c4e4f7b830f594ef5d38b695b9e56d)
 
 - [14] Predict the future structural changes of the network: [Modeling dynamic behavior in large evolving graphs (WSDM, 2013)](https://dl.acm.org/citation.cfm?id=2433479)
