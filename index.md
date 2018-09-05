@@ -69,18 +69,8 @@ of Hidden Sensitive Operations in Android Apps (NDSS, 2017)](http://www.cs.ucr.e
 
 _ _ _
 ### Dataset types
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-_ _ _
+
 
 #### Organization reports and datasets
 
