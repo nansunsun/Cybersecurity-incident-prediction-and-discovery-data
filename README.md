@@ -28,7 +28,7 @@ business profiles (WEIS, 2015)](http://web.eecs.umich.edu/~mingyan/pub/weis15.pd
 (ACM SIGSAC, 2015)](https://www.symantec.com/content/dam/symantec/docs/research-papers/dropper-effect-insights-into-malware-distribution-with-downloader-graph-analytics-en.pdf) 
 
 - [4] Predict whether a file is malicious or not based on first 5 seconds execution: [
-Early Stage Malware Prediction Using Recurrent Neural Networks (arXiV)](https://arxiv.org/abs/1708.03513)
+Early Stage Malware Prediction Using Recurrent Neural Networks (Computers & Security, 2018)](https://www.sciencedirect.com/science/article/pii/S0167404818305546)
 
 - [5] Predict the resilience of different software protection transformations against automated attacks: [Predicting the Resilience of Obfuscated Code
 Against Symbolic Execution Attacks
