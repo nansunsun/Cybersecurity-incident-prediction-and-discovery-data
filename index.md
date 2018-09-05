@@ -18,10 +18,10 @@ _ _ _
 _ _ _
 
 ### Research articles by areas
-- [1] Proactively predict organization’s breaches incidents:[Cloudy with a Chance of Breach:
+- [1] Proactively predict organization’s breaches incidents: [Cloudy with a Chance of Breach:
 Forecasting Cyber Security Incidents (Usenix, 2015)](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-liu.pdf)
 
-- [2] Predict risk distributions of different data breach incidents:[Prioritizing security
+- [2] Predict risk distributions of different data breach incidents: [Prioritizing security
 spending: A quantitative analysis of risk distributions for different
 business profiles (WEIS, 2015)](http://web.eecs.umich.edu/~mingyan/pub/weis15.pdf)
 
