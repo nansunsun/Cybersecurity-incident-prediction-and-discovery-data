@@ -1,4 +1,4 @@
-# Cybersecurity incident prediction and discovery data
+# Cybersecurity incident prediction data
 
 Everything about the datasets and data sources mentioned in the survey paper "Data-driven cyber security incident prediction".
 
