@@ -5,14 +5,16 @@ Everything about the datasets and data sources mentioned in the survey paper "Da
 _ _ _
 
 ## Table of contents
-* Research articles by areas 
+[Link to another page](./another-page.html).
+
+* [Research articles by areas] (./paper.html).
 * Dataset types
-  * Organization reports and datasets
-  * Executables
-  * Network datasets
-  * Synthetic datasets
-  * Webpage data
-  * Social media data 
+  * [Organization reports and datasets](./organization.html)
+  * [Executables](executables.html)
+  * [Network datasets](network.html)
+  * [Synthetic datasets](synthetic.html)
+  * [Webpage data](webpage.html)
+  * [Social media data] (social_media.html)
   
 _ _ _
 
