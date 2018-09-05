@@ -75,6 +75,11 @@ _ _ _
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 _ _ _
 #### Organization reports and datasets
 |Related paper         | Dataset          | Introduction |
