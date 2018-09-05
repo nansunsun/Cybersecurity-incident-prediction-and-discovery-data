@@ -10,9 +10,9 @@ _ _ _
 * [Research articles by areas](./paper.html)
 * Dataset types
   * [Organization reports and datasets](./organization.html)
-  * [Executables](executables.html)
-  * [Network datasets](network.html)
-  * [Synthetic datasets](synthetic.html)
-  * [Webpage data](webpage.html)
-  * [Social media data](social_media.html)
+  * [Executables](./executables.html)
+  * [Network datasets](./network.html)
+  * [Synthetic datasets](./synthetic.html)
+  * [Webpage data](./webpage.html)
+  * [Social media data](./social_media.html)
   
