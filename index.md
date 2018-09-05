@@ -7,7 +7,7 @@ _ _ _
 ## Table of contents
 
 
-* [Research articles by areas](./paper.html).
+* [Research articles by areas](./paper.html)
 * Dataset types
   * [Organization reports and datasets](./organization.html)
   * [Executables](executables.html)
