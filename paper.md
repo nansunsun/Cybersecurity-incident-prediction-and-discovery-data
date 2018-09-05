@@ -47,3 +47,5 @@ Events from Twitter (WWW, 2015)](https://aritter.github.io/twitter_security.pdf)
 
 - [18] Discover hidden sensitive operations: [Dark Hazard: Learning-based, Large-scale Discovery
 of Hidden Sensitive Operations in Android Apps (NDSS, 2017)](http://www.cs.ucr.edu/~heng/pubs/ndss2017.pdf)
+
+-[19] RiskTeller: Predicting the Risk of Cyber Incidents:[RiskTeller: Predicting the Risk of Cyber Incidents (CCS,2017)](https://dl.acm.org/citation.cfm?id=3134022)
