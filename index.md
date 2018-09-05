@@ -1,7 +1,6 @@
 # Cybersecurity incident prediction and discovery data
 
-Everything about the datasets and data sources mentioned in the survey paper "Data-driven cyber security incident prediction 
-and discovery". 
+Driven by the increasing scale and high profile cybersecurity incidents related public data, recent years we have witnessed a paradigm shift in understanding and defending against the evolving cyber threats, from primarily reactive detection towards proactive prediction. Meanwhile, governments, businesses, and individual internet users show the growing public appetite to improve cyber resilience that refers to their ability to prepare for, combat and recover from cyber threats and incidents. Mainly, predicting cybersecurity incidents is deemed to have excellent potential for proactively advancing cyber resilience. Research communities and industries have begun proposing cybersecurity incident prediction schemes by utilizing different types of data sources, including organization’s reports and datasets, network data, synthetic data, data crawled from webpages, and data retrieved from social media. This site provides information on the realted data in the field of cybersecurity incident prediction.
 
 _ _ _
 
