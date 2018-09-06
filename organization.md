@@ -14,7 +14,7 @@
 |[[10]](https://www.usenix.org/node/191007)|[Microsoft’s Exploitability Index](https://technet.microsoft.com/en-us/security/cc998259.aspx)|Recording exploitability information|
 
 
-
+***
 
 ## More information on the dataset
 
