@@ -9,7 +9,7 @@
 |[6][14]|[University of Oregon Route Views Project](http://www.routeviews.org/routeviews/)|The University's Route Views project was originally conceived as a tool for Internet operators to obtain real-time BGP information about the global routing system from the perspectives of several different backbones and locations around the Internet.|
 |[6]|[Spoofer project](https://www.caida.org/projects/spoofer/)|The team is developing and supporting open-source software tools to assess and report on the deployment of source address validation (SAV) best anti-spoofing practices|
 |[6]|[Zmap](https://github.com/zmap/zmap)|Zmap is a modular, open-source network scanner specifically architected to perform Internet-wide scans and capable of surveying the entire IPv4 address space in under 45 minutes from user space on a single machine, approaching the theoretical maximum speed of gigabit Ethernet.|
-
+|[17]|[KEIO, WIDE-08 and WIDE-09 traces](http://mawi.wide.ad.jp/mawi/)|Public traffic data repository|
 
 
 - - --
