@@ -15,7 +15,11 @@
 
 
 
+
 ## More information on the dataset
+
+
+
 |Dataset         | Release by whom          | Sample data |
 |:-------------|:------------------|:------|
 |[VERIS community database](http://veriscommunity.net/index.html) | [VERIS community](http://veriscommunity.net/veris-overview.html)| [Sample: Lost device, email abuse et al.](http://veriscommunity.net/class-examples.html)|
