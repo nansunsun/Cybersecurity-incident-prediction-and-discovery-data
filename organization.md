@@ -20,8 +20,12 @@
 |:-------------|:------------------|:------|
 |[VERIS community database](http://veriscommunity.net/index.html) | [VERIS community](http://veriscommunity.net/veris-overview.html)| [Sample: Lost device, email abuse et al.](http://veriscommunity.net/class-examples.html)|
 |[Hackmageddon](https://www.hackmageddon.com/)|[Paolo Passeri](https://www.hackmageddon.com/about/)|[Sample: 2018 cyber attacks master table](https://www.hackmageddon.com/2018-master-table/)|
-|[Web Hacking Incidents Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database)|Project Contributors: Jason Coleman, Ofer Shezaf (Former Project Leader), Jeremiah Grossman, Robert Auger|[The Latest Entries](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database#KeepTrackoftheLatestWHIDEntries)|
+|[Web Hacking Incidents Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database)|**Project Contributors:** Jason Coleman, Ofer Shezaf (Former Project Leader), Jeremiah Grossman, Robert Auger|[The Latest Entries](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database#KeepTrackoftheLatestWHIDEntries)|
 |[VirusTotal](https://www.virustotal.com/)|[VirusTotal community](https://support.virustotal.com/hc/en-us/sections/115000737185-Community)|[How it works?](https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works)|
 |[National Software Reference Library (NSRL)](https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl)|National Institute of Standards and Technology (NIST) |[Curated Kaspersky Hash Set - 2017](https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl/curated-kaspersky-hash-set-2017)|
+|[Symantec’s Worldwide Intelligence Network Environment (WINE)](https://www.symantec.com/)| [Tudor Dumitraș](http://users.umiacs.umd.edu/~tdumitra/blog/old/worldwide-intelligence-network-environment/)|[Introduction slides](https://www.caida.org/workshops/telescope/slides/telescope1103_wine.pdf)|
+
+
+
 
 [back](./)
