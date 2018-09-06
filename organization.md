@@ -1,4 +1,4 @@
-#### Organization reports and datasets
+## Organization reports and datasets
 
 
 |Related paper         | Dataset          | Introduction |
@@ -12,5 +12,16 @@
 |[[17]](https://ieeexplore.ieee.org/document/6812220/)|[KEIO, WIDE-08 and WIDE-09 traces](http://mawi.wide.ad.jp/mawi/)|Public traffic data repository|
 |[[10]](https://www.usenix.org/node/191007)|[ExploitDB](https://www.exploit-db.com/)|Offensive Security’s Exploit Database Archive|
 |[[10]](https://www.usenix.org/node/191007)|[Microsoft’s Exploitability Index](https://technet.microsoft.com/en-us/security/cc998259.aspx)|Recording exploitability information|
+
+
+
+## More information on the dataset
+|Dataset         | Release by whom          | Sample data |
+|:-------------|:------------------|:------|
+|[VERIS community database](http://veriscommunity.net/index.html) | [VERIS community](http://veriscommunity.net/veris-overview.html)| [Sample: Lost device, email abuse et al.](http://veriscommunity.net/class-examples.html)|
+|[Hackmageddon](https://www.hackmageddon.com/)|[Paolo Passeri](https://www.hackmageddon.com/about/)|[Sample: 2018 cyber attacks master table](https://www.hackmageddon.com/2018-master-table/)|
+|[Web Hacking Incidents Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database)|Project Contributors: Jason Coleman, Ofer Shezaf (Former Project Leader), Jeremiah Grossman, Robert Auger|[The Latest Entries](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database#KeepTrackoftheLatestWHIDEntries)|
+|[VirusTotal](https://www.virustotal.com/)|[VirusTotal community](https://support.virustotal.com/hc/en-us/sections/115000737185-Community)|[How it works?](https://support.virustotal.com/hc/en-us/articles/115002126889-How-it-works)|
+|[National Software Reference Library (NSRL)](https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl)|National Institute of Standards and Technology (NIST) |[Curated Kaspersky Hash Set - 2017](https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl/curated-kaspersky-hash-set-2017)|
 
 [back](./)
