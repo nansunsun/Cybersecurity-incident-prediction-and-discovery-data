@@ -20,8 +20,8 @@
 |[Open recursive projects](http://openresolverproject.org/)|Open Resolvers Team|Email: dns-scan /at/ puck.nether.net|
 |[Verisign. Inc](https://www.verisign.com)| Verisign Company| [Domain Tools](https://www.verisign.com/en_US/domain-names/index.xhtml)|
 |[Alexa Web Information Service](https://docs.aws.amazon.com/AlexaWebInfoService/latest/index.html)|Amazon|[AWS Documentation](https://aws.amazon.com/documentation/?_encoding=UTF8&jiveRedirect=1)|
-|University of Oregon Route Views Project](http://www.routeviews.org/routeviews/)|University of Oregon|[Route views archive](http://www.routeviews.org/routeviews/index.php/archive/)|
-|Spoofer project](https://www.caida.org/projects/spoofer/)|Center for Applied Internet Data Analysis (CAIDA)|[Data overview and access to dataset](https://www.caida.org/data/)|
+|[University of Oregon Route Views Project](http://www.routeviews.org/routeviews/)|University of Oregon|[Route views archive](http://www.routeviews.org/routeviews/index.php/archive/)|
+|[Spoofer project](https://www.caida.org/projects/spoofer/)|Center for Applied Internet Data Analysis (CAIDA)|[Data overview and access to dataset](https://www.caida.org/data/)|
 |[Zmap](https://github.com/zmap/zmap)|The ZMap Team|[Samples](https://zmap.io/)|
 |[KEIO, WIDE-08 and WIDE-09 traces](http://mawi.wide.ad.jp/mawi/)| the MAWI Working Group|[Sample traces](http://mawi.wide.ad.jp/mawi/) |
 
