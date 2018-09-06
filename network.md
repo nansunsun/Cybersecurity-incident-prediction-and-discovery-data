@@ -15,7 +15,8 @@
 - - --
 
 ### More information on the dataset
-
+|Dataset         | Release by whom          | Sample data |
+|:-------------|:------------------|:------|
 |[Open recursive projects](http://openresolverproject.org/)|Open Resolvers Team|Email: dns-scan /at/ puck.nether.net|
 |[Verisign. Inc](https://www.verisign.com)| Verisign Company| [Domain Tools](https://www.verisign.com/en_US/domain-names/index.xhtml)|
 |[Alexa Web Information Service](https://docs.aws.amazon.com/AlexaWebInfoService/latest/index.html)|Amazon|[AWS Documentation](https://aws.amazon.com/documentation/?_encoding=UTF8&jiveRedirect=1)|
