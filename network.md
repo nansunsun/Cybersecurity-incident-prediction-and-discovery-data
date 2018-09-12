@@ -26,7 +26,7 @@
 
 |Data source        | Release by whom          | Sample data |
 |:-------------|:------------------|:------|
-|[Open recursive projects](http://openresolverproject.org/)|Open Resolvers Team|Please email: dns-scan /at/ puck.nether.net|
+|[Open recursive projects](http://openresolverproject.org/)|Open Resolvers Team|Please email: dns-scan /at/ puck.nether.net to ask for data|
 |[Verisign. Inc](https://www.verisign.com)| Verisign Company| [Domain Tools](https://www.verisign.com/en_US/domain-names/index.xhtml)|
 |[Alexa Web Information Service](https://docs.aws.amazon.com/AlexaWebInfoService/latest/index.html)|Amazon|[AWS Documentation](https://aws.amazon.com/documentation/?_encoding=UTF8&jiveRedirect=1)|
 |[University of Oregon Route Views Project](http://www.routeviews.org/routeviews/)|University of Oregon|[Route views archive](http://www.routeviews.org/routeviews/index.php/archive/)|
