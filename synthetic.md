@@ -18,7 +18,7 @@
 |Tool         | Release by whom       |Tip|
 |:-------------|:------------------|:------|
 |Code generator|[Tigress Team](http://tigress.cs.arizona.edu/contributors.html)  | [How to use?](http://tigress.cs.arizona.edu/index.html)|
-|Obfuscation tool|[banescusebi](https://github.com/tum-i22/obfuscation-benchmarks/graphs/contributors)| [Github](https://github.com/tum-i22/obfuscation-benchmarks)|)
+|Obfuscation tool|[banescusebi](https://github.com/tum-i22/obfuscation-benchmarks/graphs/contributors)| [Github](https://github.com/tum-i22/obfuscation-benchmarks)|
 
 
 
