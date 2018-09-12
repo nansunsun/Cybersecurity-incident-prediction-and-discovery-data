@@ -1,6 +1,6 @@
 # Cybersecurity incident prediction data
 
-Everything about the datasets, data sources and related tools mentioned in the survey paper "Data-driven cyber security incident prediction".
+Everything about the **datasets**, **data sources** and related **tools** mentioned in the survey paper "Data-driven cyber security incident prediction".
 
 _ _ _
 
