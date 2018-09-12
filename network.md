@@ -1,7 +1,7 @@
-## Network datasets
+## Network data source
 ***
 
-|Related paper         | Dataset          | Introduction|
+|Related paper         | Data source      | Introduction|
 |:-------------|:------------------|:------|
 |[6]| [Open recursive projects](http://openresolverproject.org/)|Open Resolvers pose a significant threat to the global network infrastructure by answering recursive queries for hosts outside of its domain. They are utilized in DNS Amplification attacks and pose a similar threat as those from Smurf attacks commonly seen in the late 1990s. A list of 32 million resolvers that respond to queries in some fashion are collected in this project.|
 |[6]|[Verisign. Inc](https://www.verisign.com)|Verisign, Inc. is an American company based in Reston, Virginia, United States that operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the authoritative registry for the .com, .net, and .name generic top-level domains and the .cc and .tv country-code top-level domains, and the back-end systems for the .jobs, .gov, and .edu top-level domains. Verisign also offers a range of security services, including managed DNS, distributed denial-of-service (DDoS) attack mitigation and cyber-threat reporting.|
@@ -19,14 +19,14 @@
 
 
 
-### More information on the dataset
+### More information on the data source
 
 
 
 
-|Dataset         | Release by whom          | Sample data |
+|Data source        | Release by whom          | Sample data |
 |:-------------|:------------------|:------|
-|[Open recursive projects](http://openresolverproject.org/)|Open Resolvers Team|Email: dns-scan /at/ puck.nether.net|
+|[Open recursive projects](http://openresolverproject.org/)|Open Resolvers Team|Please email: dns-scan /at/ puck.nether.net|
 |[Verisign. Inc](https://www.verisign.com)| Verisign Company| [Domain Tools](https://www.verisign.com/en_US/domain-names/index.xhtml)|
 |[Alexa Web Information Service](https://docs.aws.amazon.com/AlexaWebInfoService/latest/index.html)|Amazon|[AWS Documentation](https://aws.amazon.com/documentation/?_encoding=UTF8&jiveRedirect=1)|
 |[University of Oregon Route Views Project](http://www.routeviews.org/routeviews/)|University of Oregon|[Route views archive](http://www.routeviews.org/routeviews/index.php/archive/)|
