@@ -15,7 +15,7 @@
 ***
 
 
-|Dataset         | Release by whom          | Sample data |
+|Tool         | Release by whom       |Tip|
 |:-------------|:------------------|:------|
 |Code generator|[Tigress Team](http://tigress.cs.arizona.edu/contributors.html)  | [How to use?](http://tigress.cs.arizona.edu/index.html)|
 
